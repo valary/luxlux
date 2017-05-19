@@ -1,0 +1,19 @@
+
+    news:[
+    {   "id":1,
+        "NewsName":" News Name",
+        "NewsDate":"10.05.2012",
+        "NewsContent":"
+Lorem ipsum dolor sit amet, secte uer ad scing elit, sedam nonumy nibh euismod tdunt ut laoreet dolmagna quam erat volu pat. Ut wisi ad minim veniam, quis nostru xerc tation ullamcorper susc lobortis nis ut aliquip ex ea consequat. Duis autem vel eu iriure dolor in hendrerit in vul velit esse molesti consequa vel illum dolore eu feugiat nul facilisis at vero eros et acc facilisi. Duis autem vel eu iriure dolor in hendrerit in vul velit esse molesti conseq ua vel illum dolore iriure dolor in hendre
+        "
+    },
+    {
+        "id":2,
+        "NewsName":"News Name",
+        "NewsDate":"12.05.2012",
+        "NewsContent":"
+  Lorem ipsum dolor sit amet, secte uer ad scing elit, sedam nonumy nibh euismod tdunt ut laoreet dolmagna quam erat volu pat. Ut wisi ad minim veniam, quis nostru xerc tation ullamcorper susc lobortis nis ut aliquip ex ea consequat. Duis autem vel eu iriure dolor in hendrerit in vul velit esse molesti consequa vel illum dolore eu feugiat nul facilisis at vero eros et acc facilisi. Duis autem vel eu iriure dolor in hendrerit in vul velit esse molesti conseq ua vel illum dolore iriure dolor in hendrerit
+        "
+
+  }
+    ]
